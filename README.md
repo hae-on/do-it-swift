@@ -1,5 +1,4 @@
-# Do-it-swift(Do it! swift책을 보고 만들어보는 아이폰 어플!)
-
+# Do, it! swift (아이폰 어플 만들기)
 # 1. Hello, name!
 상자에 이름을 입력하면 Hello, 이름! 으로 인사해줍니다.
 
