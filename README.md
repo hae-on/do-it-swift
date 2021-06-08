@@ -3,4 +3,4 @@
 # 1. Hello, name!
 상자에 이름을 입력하면 Hello, 이름! 으로 인사해줍니다.
 
-![Simulator Screen Shot - iPhone 11 - 2021-05-16 at 12 05 34](https://user-images.githubusercontent.com/80464961/121169342-dd618880-c88e-11eb-8435-893d45bbc32d.png)
+<img width="358" alt="스크린샷 2021-06-08 오후 7 24 31" src="https://user-images.githubusercontent.com/80464961/121169647-2c0f2280-c88f-11eb-8cc9-a8508fc96057.png">
